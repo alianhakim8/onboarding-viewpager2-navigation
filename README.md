@@ -1,8 +1,9 @@
 # onBoarding ViewPager2 & Navigation Component
+Example For OnBoarding.
 
 ## preview
 
-Simple Example For OnBoarding.
+
 
 ## Installation
 Clone this repository and import into **Android Studio**
