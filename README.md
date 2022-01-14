@@ -7,7 +7,7 @@ Simple Example For OnBoarding.
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:wolox/ScheTime.git
+git@github.com:alianhakim8/onboarding-viewpager2-navigation.git
 ```
 
 ## Maintainers
